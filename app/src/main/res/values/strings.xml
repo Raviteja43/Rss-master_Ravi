@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">R S S</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="milan_list">
+        <item>Milan1</item>
+        <item>Milan2</item>
+        <item>Milan3</item>
+        <item>Milan4</item>
+        <item>Milan5</item>
+    </string-array>
+    <string-array name="khanda_list">
+        <item>Khanda1</item>
+        <item>Khanda2</item>
+        <item>Khanda3</item>
+        <item>Khanda4</item>
+        <item>Khanda5</item>
+    </string-array>
+</resources>
